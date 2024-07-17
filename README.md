@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on making an inventory database and accompanying website using ASP.NET 8.0 using MVC
+- 🌱 I’m currently learning:
+      - C#
+      - EntityFramework
+      - SQL
+      - HTML
+      - CSS
+- 🤔 I’m looking for help with SQL migrations in EF.NET 8.0
+- 😄 Pronouns: she/her
